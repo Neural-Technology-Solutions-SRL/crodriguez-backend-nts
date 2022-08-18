@@ -1,0 +1,15 @@
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\bin\Debug\net6.0\ObjectLifetime.exe
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\bin\Debug\net6.0\ObjectLifetime.deps.json
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\bin\Debug\net6.0\ObjectLifetime.runtimeconfig.json
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\bin\Debug\net6.0\ObjectLifetime.dll
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\bin\Debug\net6.0\ObjectLifetime.pdb
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.csproj.AssemblyReference.cache
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.AssemblyInfoInputs.cache
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.AssemblyInfo.cs
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.csproj.CoreCompileInputs.cache
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.dll
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\net6.0\refint\ObjectLifetime.dll
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.pdb
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.genruntimeconfig.cache
+C:\Users\crodriguez\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\net6.0\ref\ObjectLifetime.dll

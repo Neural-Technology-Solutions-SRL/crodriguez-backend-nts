@@ -1,0 +1,15 @@
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\bin\Debug\net6.0\ForIteration_1.exe
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\bin\Debug\net6.0\ForIteration_1.deps.json
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\bin\Debug\net6.0\ForIteration_1.runtimeconfig.json
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\bin\Debug\net6.0\ForIteration_1.dll
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\bin\Debug\net6.0\ForIteration_1.pdb
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\obj\Debug\net6.0\ForIteration_1.csproj.AssemblyReference.cache
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\obj\Debug\net6.0\ForIteration_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\obj\Debug\net6.0\ForIteration_1.AssemblyInfoInputs.cache
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\obj\Debug\net6.0\ForIteration_1.AssemblyInfo.cs
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\obj\Debug\net6.0\ForIteration_1.csproj.CoreCompileInputs.cache
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\obj\Debug\net6.0\ForIteration_1.dll
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\obj\Debug\net6.0\refint\ForIteration_1.dll
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\obj\Debug\net6.0\ForIteration_1.pdb
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\obj\Debug\net6.0\ForIteration_1.genruntimeconfig.cache
+C:\Users\crodriguez\source\repos\ForIteration_1\ForIteration_1\obj\Debug\net6.0\ref\ForIteration_1.dll
