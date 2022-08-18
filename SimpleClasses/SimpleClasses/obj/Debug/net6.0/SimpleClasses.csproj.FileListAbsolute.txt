@@ -1,0 +1,15 @@
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net6.0\SimpleClasses.exe
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net6.0\SimpleClasses.deps.json
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net6.0\SimpleClasses.runtimeconfig.json
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net6.0\SimpleClasses.dll
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net6.0\SimpleClasses.pdb
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.AssemblyReference.cache
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfoInputs.cache
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfo.cs
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.CoreCompileInputs.cache
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.dll
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\refint\SimpleClasses.dll
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.pdb
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\SimpleClasses.genruntimeconfig.cache
+C:\Users\crodriguez\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net6.0\ref\SimpleClasses.dll
