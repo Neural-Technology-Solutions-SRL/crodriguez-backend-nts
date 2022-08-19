@@ -1,0 +1,15 @@
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\bin\Debug\net6.0\TimerExample.exe
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\bin\Debug\net6.0\TimerExample.deps.json
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\bin\Debug\net6.0\TimerExample.runtimeconfig.json
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\bin\Debug\net6.0\TimerExample.dll
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\bin\Debug\net6.0\TimerExample.pdb
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\obj\Debug\net6.0\TimerExample.csproj.AssemblyReference.cache
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\obj\Debug\net6.0\TimerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\obj\Debug\net6.0\TimerExample.AssemblyInfoInputs.cache
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\obj\Debug\net6.0\TimerExample.AssemblyInfo.cs
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\obj\Debug\net6.0\TimerExample.csproj.CoreCompileInputs.cache
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\obj\Debug\net6.0\TimerExample.dll
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\obj\Debug\net6.0\refint\TimerExample.dll
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\obj\Debug\net6.0\TimerExample.pdb
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\obj\Debug\net6.0\TimerExample.genruntimeconfig.cache
+C:\Users\crodriguez\source\repos\TimerExample\TimerExample\obj\Debug\net6.0\ref\TimerExample.dll
