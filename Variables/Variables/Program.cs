@@ -13,6 +13,7 @@ namespace Variables
             /*
             int x;
             int y;
+
             x = 7;
             y = x + 3;
 

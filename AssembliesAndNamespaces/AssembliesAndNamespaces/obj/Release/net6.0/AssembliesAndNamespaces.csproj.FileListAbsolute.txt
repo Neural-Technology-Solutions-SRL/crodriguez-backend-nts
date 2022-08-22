@@ -1,0 +1,15 @@
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\net6.0\AssembliesAndNamespaces.exe
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\net6.0\AssembliesAndNamespaces.deps.json
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\net6.0\AssembliesAndNamespaces.runtimeconfig.json
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\net6.0\AssembliesAndNamespaces.dll
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Release\net6.0\AssembliesAndNamespaces.pdb
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\net6.0\AssembliesAndNamespaces.csproj.AssemblyReference.cache
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\net6.0\AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\net6.0\AssembliesAndNamespaces.AssemblyInfoInputs.cache
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\net6.0\AssembliesAndNamespaces.AssemblyInfo.cs
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\net6.0\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\net6.0\AssembliesAndNamespaces.dll
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\net6.0\refint\AssembliesAndNamespaces.dll
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\net6.0\AssembliesAndNamespaces.pdb
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\net6.0\AssembliesAndNamespaces.genruntimeconfig.cache
+C:\Users\crodriguez\source\repos\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Release\net6.0\ref\AssembliesAndNamespaces.dll
